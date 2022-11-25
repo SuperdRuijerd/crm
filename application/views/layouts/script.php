@@ -1,0 +1,33 @@
+
+	<script src="<?php echo base_url('public'); ?>/assets/js/jquery-3.5.1.min.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/icons/feather-icon/feather.min.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/icons/feather-icon/feather-icon.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/sidebar-menu.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/config.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/bootstrap/popper.min.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/bootstrap/bootstrap.min.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/datatable/datatables/jquery.dataTables.min.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/datatable/datatables/datatable.custom.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/chart/chartist/chartist.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/chart/chartist/chartist-plugin-tooltip.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/chart/knob/knob.min.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/chart/knob/knob-chart.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/chart/apex-chart/apex-chart.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/chart/apex-chart/stock-prices.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/prism/prism.min.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/clipboard/clipboard.min.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/counter/jquery.waypoints.min.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/counter/jquery.counterup.min.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/counter/counter-custom.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/custom-card/custom-card.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/notify/bootstrap-notify.min.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/dashboard/default.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/select2/select2.full.min.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/select2/select2-custom.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/height-equal.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/tooltip-init.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/script.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/scrollable/perfect-scrollbar.min.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/scrollable/scrollable-custom.js"></script>
+	<script src="<?php echo base_url('public'); ?>/assets/js/crm.js"></script>
+
